@@ -33,6 +33,7 @@
 		1B2C3514E0552EBB6EE2C253 /* libPods-GitTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GitTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AC1011EEF17A4AE39D52BDE /* Pods-GitTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GitTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-GitTest/Pods-GitTest.release.xcconfig"; sourceTree = "<group>"; };
 		CFA853F11B44BEBA0096101D /* NewTestView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewTestView.xib; sourceTree = "<group>"; };
+		D9588EFA1B44BF6300D72252 /* HeaderFileForMerging.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HeaderFileForMerging.h; sourceTree = "<group>"; };
 		D969D6F81B44AF530003E2C2 /* GitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D969D6FC1B44AF530003E2C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D969D6FD1B44AF530003E2C2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -105,6 +106,7 @@
 				D969D7001B44AF530003E2C2 /* AppDelegate.m */,
 				D969D7051B44AF530003E2C2 /* ViewController.h */,
 				D969D7061B44AF530003E2C2 /* ViewController.m */,
+				D9588EFA1B44BF6300D72252 /* HeaderFileForMerging.h */,
 				D969D7081B44AF530003E2C2 /* Main.storyboard */,
 				D969D70B1B44AF530003E2C2 /* Images.xcassets */,
 				D969D70D1B44AF530003E2C2 /* LaunchScreen.xib */,
