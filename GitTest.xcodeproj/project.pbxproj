@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8FBE84EBA3589656D2AC04ED /* libPods-GitTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B2C3514E0552EBB6EE2C253 /* libPods-GitTest.a */; };
+		CFA853F21B44BEBA0096101D /* NewTestView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CFA853F11B44BEBA0096101D /* NewTestView.xib */; };
 		D969D6FE1B44AF530003E2C2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D969D6FD1B44AF530003E2C2 /* main.m */; };
 		D969D7011B44AF530003E2C2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D969D7001B44AF530003E2C2 /* AppDelegate.m */; };
 		D969D7041B44AF530003E2C2 /* GitTest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D969D7021B44AF530003E2C2 /* GitTest.xcdatamodeld */; };
@@ -31,6 +32,7 @@
 /* Begin PBXFileReference section */
 		1B2C3514E0552EBB6EE2C253 /* libPods-GitTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GitTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AC1011EEF17A4AE39D52BDE /* Pods-GitTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GitTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-GitTest/Pods-GitTest.release.xcconfig"; sourceTree = "<group>"; };
+		CFA853F11B44BEBA0096101D /* NewTestView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewTestView.xib; sourceTree = "<group>"; };
 		D969D6F81B44AF530003E2C2 /* GitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D969D6FC1B44AF530003E2C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D969D6FD1B44AF530003E2C2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				D969D70D1B44AF530003E2C2 /* LaunchScreen.xib */,
 				D969D7021B44AF530003E2C2 /* GitTest.xcdatamodeld */,
 				D969D6FB1B44AF530003E2C2 /* Supporting Files */,
+				CFA853F11B44BEBA0096101D /* NewTestView.xib */,
 			);
 			path = GitTest;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D969D70A1B44AF530003E2C2 /* Main.storyboard in Resources */,
+				CFA853F21B44BEBA0096101D /* NewTestView.xib in Resources */,
 				D969D70F1B44AF530003E2C2 /* LaunchScreen.xib in Resources */,
 				D969D70C1B44AF530003E2C2 /* Images.xcassets in Resources */,
 			);
